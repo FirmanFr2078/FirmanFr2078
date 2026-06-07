@@ -150,6 +150,6 @@ Seorang mahasiswa yang percaya bahwa kode yang baik bukan hanya yang berjalan â€
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=FirmanFr2078&color=7BA7C7&style=flat&label=ðŸ‘‹+terima+kasih+sudah+mampir" alt="Visitor Badge"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=FirmanFr2078.FirmanFr2078&left_color=black&right_color=mediumpurple&left_text=%F0%9F%91%8B%20Hi%20there!%20Thanks%20for%20dropping%20by." alt="Visitor Badge"/>
 
 </div>
