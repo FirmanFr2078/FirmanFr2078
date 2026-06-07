@@ -16,6 +16,8 @@
 
 ##
 
+<br>
+
 <div align="center">
 
 <table border="0" cellspacing="0" cellpadding="0">
@@ -51,7 +53,17 @@ Seorang mahasiswa yang percaya bahwa kode yang baik bukan hanya yang berjalan �
 
 </div>
 
-##
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=FirmanFr2078&theme=tokyonight&hide_border=true&stroke=7BA7C7&ring=7BA7C7&fire=a8c5da&currStreakLabel=7BA7C7" alt="GitHub Streak" height="160"/>
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FirmanFr2078&theme=tokyonight" alt="Top Languages" height="160"/>
+
+</div
+
+<br>
 
 <div align="center">
 
@@ -87,17 +99,7 @@ Seorang mahasiswa yang percaya bahwa kode yang baik bukan hanya yang berjalan �
 
 </div>
 
-##
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=FirmanFr2078&theme=tokyonight&hide_border=true&stroke=7BA7C7&ring=7BA7C7&fire=a8c5da&currStreakLabel=7BA7C7" alt="GitHub Streak" height="160"/>
-&nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FirmanFr2078&theme=tokyonight" alt="Top Languages" height="160"/>
-
-</div>
-
-##
+<br>
 
 <div align="center">
 
@@ -128,8 +130,6 @@ Seorang mahasiswa yang percaya bahwa kode yang baik bukan hanya yang berjalan �
 
 
 <div align="center">
-
-<p>⟡ ── setiap commit adalah jejak, setiap push adalah keberanian ── ⟡</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FirmanFr2078/FirmanFr2078/output/pacman-contribution-graph-dark.svg"/>
