@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1000&color=7BA7C7&center=true&vCenter=true&width=600&lines=Selamat+datang+di+profil+GitHub+ku+%F0%9F%91%8B;Fullstack+Developer+%7C+Backend+%C2%B7+Frontend;%22Code+is+how+I+speak+when+words+are+not+enough+to+say.%22" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1000&color=7BA7C7&center=true&vCenter=true&width=600&lines=Selamat+datang+di+profil+GitHub+ku+%F0%9F%91%8B;Fullstack+Developer+%7C+Backend+%C2%B7+Frontend;%22Senang+dan+bahagia+adalah+pelengkap+ketiadaan+kecewa.%22" alt="Typing SVG" />
 
 <br>
 
