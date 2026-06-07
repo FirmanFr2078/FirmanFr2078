@@ -150,6 +150,6 @@ Seorang mahasiswa yang percaya bahwa kode yang baik bukan hanya yang berjalan â€
 
 <br>
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=FirmanFr2078.FirmanFr2078&left_color=1a2332&right_color=7BA7C7&left_text=%F0%9F%91%8B%20Hi%20there!%20Thanks%20for%20dropping%20by." alt="Visitor Badge"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=FirmanFr2078.FirmanFr2078&left_color=%23595959&right_color=%231283c3&left_text=%F0%9F%91%8B%20Hi%20there!%20Thanks%20for%20dropping%20by." alt="Visitor Badge"/>
 
 </div>
