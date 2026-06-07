@@ -4,21 +4,13 @@
 
 <br>
 
-<p>⟡ ── ────────────────────────────── ── ⟡</p>
+<p>⟡ ── "Code is how I speak when words are not enough to say." ── ⟡</p>
 
 <p>
-☕ &nbsp; ⌨ &nbsp; ◈ &nbsp; ✦ &nbsp;
-<a href="https://laravel.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
-</a>
-&nbsp;
-<a href="https://nextjs.org" target="_blank">
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-</a>
-&nbsp; ✦ &nbsp; ◈ &nbsp; ⌨ &nbsp; ☕
+<img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
+  
 </p>
-
-<p>⟡ ── ────────────────────────────── ── ⟡</p>
 
 </div>
 
