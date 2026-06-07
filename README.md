@@ -63,7 +63,7 @@ Seorang mahasiswa yang percaya bahwa kode yang baik bukan hanya yang berjalan â€
 
 </div
 
-<br>
+<br> <br>
 
 <div align="center">
 
@@ -128,6 +128,7 @@ Seorang mahasiswa yang percaya bahwa kode yang baik bukan hanya yang berjalan â€
 
 </div>
 
+<br>
 
 <div align="center">
 
