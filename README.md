@@ -6,10 +6,22 @@
 
 <p>⟡ ── "Code is how I speak when words are not enough to say." ── ⟡</p>
 
-<p>
-<img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-<img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
-  
+<p align="center">
+  <a href="https://github.com/FirmanFr2078" style="text-decoration:none">
+    <img src="https://img.shields.io/github/followers/FirmanFr2078?label=Follow&style=flat-square&color=1d3557&labelColor=000000&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://github.com/FirmanFr2078" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/FirmanFr2078&query=$.public_repos&label=Repos&style=flat-square&labelColor=000000&color=1d3557&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://github.com/FirmanFr2078/Lvms-New" style="text-decoration:none">
+    <img src="https://img.shields.io/github/stars/FirmanFr2078/Lvms-New?style=flat-square&labelColor=000000&color=1d3557&logo=github&logoColor=white&label=LVMS+⭐"/>
+  </a>
+  <a href="https://github.com/FirmanFr2078/Arden" style="text-decoration:none">
+    <img src="https://img.shields.io/github/stars/FirmanFr2078/Arden?style=flat-square&labelColor=000000&color=1d3557&logo=github&logoColor=white&label=ARDEN+⭐"/>
+  </a>
+  <a href="https://github.com/FirmanFr2078" style="text-decoration:none">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=FirmanFr2078.FirmanFr2078&left_color=%23000000&right_color=%231d3557&left_text=Profile+views"/>
+  </a>
 </p>
 
 </div>
@@ -27,12 +39,12 @@
 ### ◈ &nbsp;Tentang Saya
 
 ```yaml
-nama     : Firman Syah
-kampus   : Universitas Islam Balitar
-jurusan  : Teknik Informatika
-semester : 4
-fokus    : Web Development
-mood     : ☕ selalu
+nama: Firman Syah
+kampus: Universitas Islam Balitar
+jurusan: Teknik Informatika
+semester: 4
+fokus: Web Development
+mood: ☕ selalu
 ```
 
 Seorang mahasiswa yang percaya bahwa kode yang baik bukan hanya yang berjalan — tapi yang bisa dipahami, dijaga, dan dirasakan oleh orang lain.
@@ -109,18 +121,18 @@ Seorang mahasiswa yang percaya bahwa kode yang baik bukan hanya yang berjalan �
 
 ⟡
 
-*"Kode yang baik seperti surat cinta —*
-*ditulis dengan hati, mudah dibaca,*
-*dan meninggalkan kesan yang tak terlupakan."*
+_"Kode yang baik seperti surat cinta —_
+_ditulis dengan hati, mudah dibaca,_
+_dan meninggalkan kesan yang tak terlupakan."_
 
 </td>
 <td width="50%" align="center" valign="middle">
 
 ✦
 
-*"Kesetiaan bukan tentang tidak pernah pergi —*
-*tapi tentang selalu memilih untuk kembali,*
-*seperti git yang selalu bisa di-revert."*
+_"Kesetiaan bukan tentang tidak pernah pergi —_
+_tapi tentang selalu memilih untuk kembali,_
+_seperti git yang selalu bisa di-revert."_
 
 </td>
 </tr>
