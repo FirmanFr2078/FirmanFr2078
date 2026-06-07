@@ -1,12 +1,18 @@
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1000&color=7BA7C7&center=true&vCenter=true&width=600&lines=Selamat+datang+di+profil+GitHub+ku+%F0%9F%91%8B;Fullstack+Developer+%7C+Backend+%C2%B7+Frontend;%22Senang+dan+bahagia+adalah+pelengkap+ketiadaan+kecewa.%22" alt="Typing SVG" />
+
+<br>
+
 ```
-⠀⠀⠀⠀⠀⠀⟡ ── ────────────────────────────── ── ⟡
-⠀⠀⠀⠀⠀⠀      ☕  ⌨  ◈  ✦  ⟡  ✦  ◈  ⌨  ☕
-⠀⠀⠀⠀⠀⠀⟡ ── ────────────────────────────── ── ⟡
+⟡ ── ────────────────────────────── ── ⟡
+      ☕  ⌨  ◈  ✦  ⟡  ✦  ◈  ⌨  ☕
+⟡ ── ────────────────────────────── ── ⟡
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1000&color=7BA7C7&center=true&vCenter=true&width=500&lines=Firman+Syah+%E2%80%94+Mahasiswa+Teknik+Informatika;Web+Developer+%7C+Laravel+%C2%B7+Next.js+%C2%B7+TypeScript;%22Code+dengan+hati%2C+bangun+dengan+tujuan.%22" alt="Typing SVG" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js"/>
 
 </div>
 
@@ -98,6 +104,7 @@ Seorang mahasiswa yang percaya bahwa kode yang baik bukan hanya yang berjalan �
 <img src="https://streak-stats.demolab.com?user=FirmanFr2078&theme=tokyonight&hide_border=true&stroke=7BA7C7&ring=7BA7C7&fire=a8c5da&currStreakLabel=7BA7C7" alt="GitHub Streak" height="160"/>
 &nbsp;&nbsp;
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FirmanFr2078&theme=tokyonight" alt="Top Languages" height="160"/>
+
 </div>
 
 ##
