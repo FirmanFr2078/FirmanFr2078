@@ -55,10 +55,6 @@ Seorang mahasiswa yang percaya bahwa kode yang baik bukan hanya yang berjalan â€
 
 <div align="center">
 
-### âŸ¡ &nbsp;Teknologi &amp; Tools
-
-<br>
-
 <img src="https://skillicons.dev/icons?i=laravel" height="32" alt="Laravel" title="Laravel"/>
 <img width="10"/>
 <img src="https://skillicons.dev/icons?i=nextjs" height="32" alt="Next.js" title="Next.js"/>
@@ -95,10 +91,6 @@ Seorang mahasiswa yang percaya bahwa kode yang baik bukan hanya yang berjalan â€
 
 <div align="center">
 
-### âœ¦ &nbsp;Statistik
-
-<br>
-
 <img src="https://streak-stats.demolab.com?user=FirmanFr2078&theme=tokyonight&hide_border=true&stroke=7BA7C7&ring=7BA7C7&fire=a8c5da&currStreakLabel=7BA7C7" alt="GitHub Streak" height="160"/>
 &nbsp;&nbsp;
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FirmanFr2078&theme=tokyonight" alt="Top Languages" height="160"/>
@@ -113,9 +105,8 @@ Seorang mahasiswa yang percaya bahwa kode yang baik bukan hanya yang berjalan â€
 <tr>
 <td width="50%" align="center" valign="middle">
 
-```
 âŸ¡
-```
+
 *"Kode yang baik seperti surat cinta â€”*
 *ditulis dengan hati, mudah dibaca,*
 *dan meninggalkan kesan yang tak terlupakan."*
@@ -123,9 +114,8 @@ Seorang mahasiswa yang percaya bahwa kode yang baik bukan hanya yang berjalan â€
 </td>
 <td width="50%" align="center" valign="middle">
 
-```
 âœ¦
-```
+
 *"Kesetiaan bukan tentang tidak pernah pergi â€”*
 *tapi tentang selalu memilih untuk kembali,*
 *seperti git yang selalu bisa di-revert."*
@@ -136,7 +126,6 @@ Seorang mahasiswa yang percaya bahwa kode yang baik bukan hanya yang berjalan â€
 
 </div>
 
-##
 
 <div align="center">
 
