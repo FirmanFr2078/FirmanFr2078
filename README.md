@@ -1,17 +1,24 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1000&color=7BA7C7&center=true&vCenter=true&width=600&lines=Selamat+datang+di+profil+GitHub+ku+%F0%9F%91%8B;Fullstack+Developer+%7C+Backend+%C2%B7+Frontend;%22Senang+dan+bahagia+adalah+pelengkap+ketiadaan+kecewa.%22" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1000&color=7BA7C7&center=true&vCenter=true&width=600&lines=Selamat+datang+di+profil+GitHub+ku+%F0%9F%91%8B;Fullstack+Developer+%7C+Backend+%C2%B7+Frontend;%22Code+is+how+I+speak+when+words+are+not+enough+to+say.%22" alt="Typing SVG" />
 
 <br>
 
-```
-⟡ ── ────────────────────────────── ── ⟡
-      ☕  ⌨  ◈  ✦  ⟡  ✦  ◈  ⌨  ☕
-⟡ ── ────────────────────────────── ── ⟡
-```
+<p>⟡ ── ────────────────────────────── ── ⟡</p>
 
-<img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-<img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
+<p>
+☕ &nbsp; ⌨ &nbsp; ◈ &nbsp; ✦ &nbsp;
+<a href="https://laravel.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
+</a>
+&nbsp;
+<a href="https://nextjs.org" target="_blank">
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+</a>
+&nbsp; ✦ &nbsp; ◈ &nbsp; ⌨ &nbsp; ☕
+</p>
+
+<p>⟡ ── ────────────────────────────── ── ⟡</p>
 
 </div>
 
@@ -141,12 +148,7 @@ Seorang mahasiswa yang percaya bahwa kode yang baik bukan hanya yang berjalan �
 
 <div align="center">
 
-```
-⟡ ── ──────────────────────────────── ── ⟡
-      setiap commit adalah jejak,
-      setiap push adalah keberanian.
-⟡ ── ──────────────────────────────── ── ⟡
-```
+<p>⟡ ── setiap commit adalah jejak, setiap push adalah keberanian ── ⟡</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FirmanFr2078/FirmanFr2078/output/pacman-contribution-graph-dark.svg"/>
