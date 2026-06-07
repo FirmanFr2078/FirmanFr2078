@@ -95,8 +95,6 @@ Seorang mahasiswa yang percaya bahwa kode yang baik bukan hanya yang berjalan â€
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=FirmanFr2078&theme=tokyonight&hide_border=true&stroke=7BA7C7&ring=7BA7C7&fire=a8c5da&currStreakLabel=7BA7C7" alt="GitHub Streak"/>
-
 <img src="https://streak-stats.demolab.com?user=FirmanFr2078&theme=tokyonight&hide_border=true&stroke=7BA7C7&ring=7BA7C7&fire=a8c5da&currStreakLabel=7BA7C7" alt="GitHub Streak" height="160"/>
 &nbsp;&nbsp;
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FirmanFr2078&theme=tokyonight" alt="Top Languages" height="160"/>
