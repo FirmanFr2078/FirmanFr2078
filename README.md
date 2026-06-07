@@ -8,9 +8,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/FirmanFr2078?label=Follow&style=flat-square&color=1d3557&labelColor=000000&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/FirmanFr2078&query=$.public_repos&label=Repos&style=flat-square&labelColor=000000&color=1d3557&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/github/stars/FirmanFr2078/Lvms-New?style=flat-square&labelColor=000000&color=1d3557&logo=github&logoColor=white&label=LVMS+⭐"/>
-  <img src="https://img.shields.io/github/stars/FirmanFr2078/Arden?style=flat-square&labelColor=000000&color=1d3557&logo=github&logoColor=white&label=ARDEN+⭐"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/FirmanFr2078&amp;query=$.public_repos&amp;label=Repos&amp;style=flat-square&amp;labelColor=000000&amp;color=1d3557&amp;logo=github&amp;logoColor=white"/>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=FirmanFr2078.FirmanFr2078&left_color=%23000000&right_color=%231d3557&left_text=Profile+views"/>
 </p>
 
